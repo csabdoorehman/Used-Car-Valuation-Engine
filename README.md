@@ -21,3 +21,16 @@ The **Used Car Valuation Engine** automates the pricing process for pre-owned ve
 * **Machine Learning:** Scikit-Learn, XGBoost
 * **Model Persistence:** Joblib
 * **Web Framework:** Streamlit
+
+
+👨‍💻 Author
+Abdur Rahman
+
+Role: Software Engineering Student & Frontend/ML Enthusiast
+
+GitHub: github.com/csabdoorehman
+
+LinkedIn: linkedin.com/abdur rahman
+
+Developed with Python, XGBoost, and Streamlit.
+"""
